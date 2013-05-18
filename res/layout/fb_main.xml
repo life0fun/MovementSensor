@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center_horizontal">
+
+     <Button android:id="@+id/fb_postbutton"
+		android:text="@string/fb_post"
+		android:visibility="invisible"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:paddingRight="20dp"
+		android:paddingLeft="20dp"
+		android:layout_margin="20dp"
+		/>
+
+     <Button android:id="@+id/fb_uploadbutton"
+		android:text="@string/fb_upload"
+		android:visibility="invisible"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:paddingRight="20dp"
+		android:paddingLeft="20dp"
+		android:layout_margin="20dp"
+		/>
+
+	<TextView android:id="@+id/fb_txt"
+        android:text="@string/hello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		/>
+
+</LinearLayout>

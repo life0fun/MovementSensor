@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<resources>
+  <style
+    name="FoursquareTheme"
+    parent="@android:style/Theme.Light">
+    <item
+      name="android:listViewStyle">@style/listViewStyle</item>
+  </style>
+  
+  <style
+    name="listViewStyle"
+    parent="@android:attr/listViewStyle">
+    <item name="android:background">@android:color/white</item>
+    <item name="android:divider">@drawable/divider</item>
+  </style>
+
+  <style name="tabHostStyle">
+    <item name="android:background">@android:color/black</item>
+  </style>
+
+  <!--  Manually specified -->
+
+  <style
+    name="listItemStyle">
+    <item
+      name="android:paddingBottom">6dip</item>
+  </style>
+
+  <style
+    name="secondaryTextStyle">
+    <item
+      name="android:paddingRight">4dip</item>
+    <item
+      name="android:textAppearance">@android:style/TextAppearance.Small</item>
+    <item
+      name="android:textColor">#74CBE7</item>
+  </style>
+
+  <style
+    name="TextStyleWhite">
+    <item
+      name="android:shadowColor">#111111</item>
+    <item
+      name="android:shadowRadius">1</item>
+    <item 
+      name="android:padding">3dip</item>
+    <item
+      name="android:shadowDy">1</item>
+    <item
+      name="android:textColor">@color/white</item>
+ 
+  </style>
+   
+  <style name="TextViewStyleVenueNameListItem">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/black_end</item>
+  </style>
+
+  <style name="TextViewStyleVenueAddressListItem">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/black_end</item>
+  </style>
+  
+  
+  <style name="TextViewStyleCheckinListItemLineMessage">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/black_end</item>
+  </style>
+
+  <style name="TextViewStyleCheckinListItemLineShout">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/black_end</item>
+  </style>
+  
+  <style name="TextViewStyleCheckinListItemLineAddress">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/dgrey_start</item>
+  </style>
+  
+  <style name="TextViewStyleCheckinListItemLineTimestamp">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/grey_end</item>
+  </style>
+  
+  
+  <style name="TextViewStyleTipListItemTip">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textColor">@color/black_end</item>
+  </style>
+  
+  <style name="TextViewStyleTipListItemSignature">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/grey_end</item>
+  </style>
+  
+  
+  <style name="TextViewStyleUserDetailsActivityTitle">
+    <item name="android:textSize">20dip</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+ 
+  <style name="TextViewStyleUserDetailsActivityNumBadgesTitle">
+    <item name="android:textSize">11dip</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+ 
+  <style name="TextViewStyleUserDetailsActivityNumBadges">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+ 
+  <style name="TextViewStyleUserDetailsActivityTabTitles">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textColor">@color/dgrey_end</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+  
+  <style name="TextViewStyleTipActivityVenueName">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textColor">@color/blue_start</item>
+  </style>
+ 
+  <style name="TextViewStyleVenueActivityVenueName">
+    <item name="android:textSize">18dip</item>
+    <item name="android:textColor">#000</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+  
+  <style name="TextViewStyleUserReverseGeoLocation">
+    <item name="android:textSize">11dip</item>
+    <item name="android:textColor">#FFF</item>
+  </style>
+ 
+  <style name="TextViewStyleInviteNonFoursquareUserListItem">
+    <item name="android:textSize">15dip</item>
+    <item name="android:textColor">@color/black_end</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+  
+  <style name="TextViewStylePingsTitle">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/black_end</item>
+    <item name="android:textStyle">bold</item>
+  </style> 
+  
+  <style name="TextViewStylePingsOther">
+    <item name="android:textSize">13dip</item>
+    <item name="android:textColor">@color/black_end</item>
+  </style>
+  
+  <style name="TextViewStyleMapCalloutTitle">
+    <item name="android:textSize">20dip</item>
+    <item name="android:textColor">#FFF</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+  
+  <style name="TextViewStyleMapCalloutMessage">
+    <item name="android:textSize">16dip</item>
+    <item name="android:textColor">#FFF</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+  
+  <!-- Provides a transparent background for an activity. Without inheriting from this
+       base theme style, 1.5 makes the background solid black instead of transparent.
+   -->
+  <style name="ThemeTransparentDialogBase" parent="@android:style/Theme.Black">
+  </style> 
+  <style name="ThemeTransparentDialogBase.TransparentDialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowFrame">@null</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">true</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+   </style>
+     
+</resources>

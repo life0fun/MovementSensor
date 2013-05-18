@@ -1,0 +1,108 @@
+2011-10-17 10:32:05 sensor  Stationary  user Moving  set by user 
+2011-10-17 10:32:13 sensor  Stationary  user Stationary  set by user 
+2011-10-17 10:32:27 sensor  Stationary  user Stationary  set by user 
+2011-10-17 10:32:36 sensor  Stationary  user Stationary  set by user 
+2011-10-17 12:21:15 sensor  Stationary  user Stationary  set by user 
+2011-10-17 13:38:23 sensor  Stationary  user Stationary  set by user 
+2011-10-17 13:38:25 sensor  Stationary  user Moving  set by user 
+2011-10-17 13:38:26 sensor  Stationary  user Stationary  set by user 
+2011-10-17 14:24:06 sensor  Stationary  user Stationary  set by user 
+2011-10-17 14:24:14 sensor  Stationary  user Moving  set by user 
+2011-10-17 14:24:32 sensor  Stationary  user Moving  set by user 
+2011-10-17 14:24:42 sensor  Stationary  user Moving  set by user 
+2011-10-17 14:31:04 sensor  Stationary  user Moving  set by user 
+2011-10-17 14:31:17 sensor  Stationary  user Stationary  set by user 
+2011-10-17 14:31:21 sensor  Stationary  user Stationary  set by user 
+2011-10-17 14:31:36 sensor  Stationary  user Moving  set by user 
+2011-10-17 14:32:30 sensor  Stationary  user Stationary  set by user 
+2011-10-17 15:12:28 sensor  Monitoring  user Moving  set by user 
+2011-10-17 15:12:32 sensor  Monitoring  user Moving  set by user 
+2011-10-17 15:12:33 sensor  Monitoring  user Stationary  set by user 
+2011-10-17 15:12:34 sensor  Monitoring  user Stationary  set by user 
+2011-10-17 15:12:56 sensor  Monitoring  user Moving  set by user 
+2011-10-17 15:13:03 sensor  Monitoring  user Stationary  set by user 
+2011-10-17 18:05:28 sensor  Stationary  user Moving  set by user 
+2011-10-17 18:07:23 sensor moving user Moving no_wifi_scan 
+2011-10-17 18:22:05 sensor  Moving  user Stationary  set by user 
+2011-10-17 18:23:57 sensor station   user Stationary wifi_scan_same 
+2011-10-18 09:01:58 sensor  Stationary  user Moving  set by user 
+2011-10-18 09:03:34 sensor moving user Moving wifi_diff_3_times 
+2011-10-18 09:15:13 sensor  Moving  user Stationary  set by user 
+2011-10-18 09:15:24 sensor station   user Stationary walking 
+2011-10-18 09:15:26 sensor moving user Stationary no_wifi_scan 
+2011-10-18 09:15:27 sensor station   user Walking walking 
+2011-10-18 17:52:40 sensor  Monitoring  user Moving  set by user 
+2011-10-18 17:54:48 sensor Moving user Moving no_wifi_scan 
+2011-10-18 18:09:16 sensor  Moving  user Stationary  set by user 
+2011-10-18 18:11:32 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-19 08:54:07 sensor  Stationary  user Moving  set by user 
+2011-10-19 08:55:47 sensor Moving user Moving wifi_diff_3_times 
+2011-10-19 08:56:45 sensor  Moving  user Stationary  set by user 
+2011-10-19 08:57:50 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-19 09:02:13 sensor  Stationary  user Moving  set by user 
+2011-10-19 09:03:55 sensor Moving user Moving no_wifi_scan 
+2011-10-19 09:19:00 sensor  Moving  user Stationary  set by user 
+2011-10-19 09:19:23 sensor Stationary   user Stationary walking 
+2011-10-19 17:59:56 sensor  Walking  user Moving  set by user 
+2011-10-19 18:01:50 sensor Moving user Moving no_wifi_scan 
+2011-10-19 18:16:12 sensor  Moving  user Stationary  set by user 
+2011-10-19 18:17:09 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-20 08:57:33 sensor  Monitoring  user Moving  set by user 
+2011-10-20 08:58:28 sensor Moving user Moving wifi_diff_3_times 
+2011-10-20 09:12:43 sensor  Moving  user Stationary  set by user 
+2011-10-20 09:13:03 sensor Stationary   user Stationary walking 
+2011-10-20 18:04:44 sensor  Stationary  user Moving  set by user 
+2011-10-20 18:06:46 sensor Moving user Moving no_wifi_scan 
+2011-10-20 18:22:08 sensor  Moving  user Stationary  set by user 
+2011-10-20 18:25:12 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-24 08:54:50  Current in driving ? false 
+2011-10-24 08:57:48 sensor  Monitoring  user Moving  set by user 
+2011-10-24 08:59:49 sensor Moving user Moving wifi_diff_3_times 
+2011-10-24 09:00:29 sensor  Moving  user Stationary  set by user 
+2011-10-24 09:01:26 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-24 09:04:30 sensor  Monitoring  user Moving  set by user 
+2011-10-24 09:07:54 sensor Moving user Moving wifi_diff_3_times 
+2011-10-24 09:18:58 sensor  Moving  user Stationary  set by user 
+2011-10-24 09:19:17 sensor Stationary   user Stationary walking 
+2011-10-24 17:59:32 sensor  Walking  user Moving  set by user 
+2011-10-24 18:01:21 sensor Moving user Moving no_wifi_scan 
+2011-10-24 18:14:05 sensor  Moving  user Stationary  set by user 
+2011-10-24 18:16:21 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-25 09:04:59 sensor  Monitoring  user Moving  set by user 
+2011-10-25 09:05:40 sensor Moving user Moving wifi_diff_3_times 
+2011-10-25 09:19:52 sensor  Moving  user Stationary  set by user 
+2011-10-25 09:20:32 sensor Stationary   user Walking walking 
+2011-10-25 18:00:29 sensor  Monitoring  user Moving  set by user 
+2011-10-25 18:01:05 sensor Moving user Moving no_wifi_scan 
+2011-10-25 18:18:15 sensor  Moving  user Stationary  set by user 
+2011-10-25 18:27:00 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-26 08:58:47 sensor  Monitoring  user Moving  set by user 
+2011-10-26 09:00:20 sensor Moving user Moving wifi_diff_3_times 
+2011-10-26 09:00:49 sensor  Moving  user Stationary  set by user 
+2011-10-26 09:01:23 sensor Stationary   user Stationary walking 
+2011-10-26 09:05:20 sensor  Monitoring  user Moving  set by user 
+2011-10-26 09:05:47 sensor Moving user Moving wifi_diff_3_times 
+2011-10-26 09:17:13 sensor  Moving  user Stationary  set by user 
+2011-10-26 09:17:46 sensor Stationary   user Stationary walking 
+2011-10-26 17:59:49 sensor  Stationary  user Moving  set by user 
+2011-10-26 18:01:04 sensor Moving user Moving no_wifi_scan 
+2011-10-26 18:16:40 sensor  Moving  user Stationary  set by user 
+2011-10-26 18:20:43 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-26 18:45:58 sensor Moving user Stationary wifi_diff_3_times 
+2011-10-26 18:52:34 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-26 19:03:25 sensor Moving user Stationary wifi_diff_3_times 
+2011-10-26 19:07:18 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-27 09:07:29 sensor Moving user Stationary wifi_diff_3_times 
+2011-10-27 09:07:39 sensor  Moving  user Moving  set by user 
+2011-10-27 09:27:05 sensor  Moving  user Stationary  set by user 
+2011-10-27 09:27:25 sensor Stationary   user Stationary walking 
+2011-10-27 12:19:19 sensor Moving user Stationary wifi_diff_not_walking 
+2011-10-27 12:23:03 sensor Stationary   user Stationary walking 
+2011-10-27 18:06:06 sensor  Monitoring  user Moving  set by user 
+2011-10-27 18:08:24 sensor Moving user Moving no_wifi_scan 
+2011-10-27 18:20:36 sensor  Moving  user Stationary  set by user 
+2011-10-27 18:23:33 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-28 08:13:49 sensor Moving user Stationary wifi_diff_3_times 
+2011-10-28 08:20:23 sensor Stationary   user Stationary wifi_scan_same 
+2011-10-28 08:56:06 sensor Moving user Stationary wifi_diff_3_times 
+2011-10-28 09:11:16 sensor Stationary   user Stationary wifi_scan_same 
